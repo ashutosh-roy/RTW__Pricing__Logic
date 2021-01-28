@@ -1,0 +1,13 @@
+"ID","CODE_CATEGORY","REF_CODE","DESC_EN","DESC_BM","ADDBY","UPDATEBY","CREATED_AT","UPDATED_AT","PRIORITY"
+17000,rtw_sp_serviceType,rtw_st_phy,physiotherapy,,,,,,
+17001,rtw_sp_serviceType,rtw_st_occ,occupationaltherapy,,,,,,
+17002,rtw_sp_serviceType,rtw_st_spe,speechtherapy,,,,,,
+17003,rtw_sp_serviceType,rtw_st_fun,functionalcapacityevaluation&report,,,,,,
+17004,rtw_sp_serviceType,rtw_st_serv_by_pack,servicesbypackage,,,,,,
+17005,rtw_sp_serviceType,rtw_st_ass,assessment&report,,,,,,
+17006,rtw_sp_serviceType,rtw_st_dry,dryneedling/acupuncture,,,,,,
+17007,rtw_sp_serviceType,rtw_st_serv_by_mod,servicesbymodalities,,,,,,
+17008,rtw_sp_serviceType,rtw_st_con,consultation,,,,,,
+17009,rtw_sp_serviceType,rtw_st_hos,hostel,,,,,,
+17010,rtw_sp_serviceType,rtw_st_psy,psychology,,,,,,
+17011,rtw_sp_serviceType,rtw_st_adm,administrationservices,,,,,,

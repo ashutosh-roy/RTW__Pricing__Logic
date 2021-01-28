@@ -1,0 +1,135 @@
+{
+ "JOHOR": {
+  "PHYSIOTHERAPY": {
+   "CHEST PHYSIOTHERAPY SUCTION MACHINE": {
+    "EPISODE FISIOTERAPI DAN PEMULIHAN (BATU PAHAT)": 30.0
+   }
+  }
+ },
+ "MELAKA": {
+  "PHYSIOTHERAPY": {
+   "Home Therapy + Mileage": {
+    "HMC PROVIDERS SDN BHD (SHAH ALAM)": 110.0
+   }
+  }
+ },
+ "N9": {
+  "SERVICES BY MODALITIES": {
+   "Advance Equipment - Shock Wave Therapy": {
+    "KPJ SEREMBAN SPECIALIST HOSPITAL (SEREMBAN)": 85.0
+   }
+  }
+ },
+ "PERLIS": {
+  "PHYSIOTHERAPY": {
+   "Physiotherapy Treatment": {
+    "APOLLO PHYSIOTHERAPY CENTRE": 50.0
+   }
+  }
+ },
+ "KEDAH": {
+  "SERVICES BY PACKAGE": {
+   "Pakej - Neck Injury": {
+    "PUSAT RAWATAN FISIOTERAPI IMPIANA": 70.0
+   }
+  }
+ },
+ "PP": {
+  "SERVICES BY MODALITIES": {
+   "Advance Equipment - Shock Wave Therapy": {
+    "WELL PHYSIO SDN BHD (BUKIT MERTAJAM)": 85.0
+   }
+  }
+ },
+ "PERAK": {
+  "SERVICES BY PACKAGE": {
+   "Pakej - General Exercise": {
+    "DIAMAGNETIC PHYSIO CENTRE SDN BHD (IPOH)": 60.0
+   }
+  }
+ },
+ "PAHANG": {
+  "SERVICES BY MODALITIES": {
+   "Advance Equipment - Shock Wave Therapy": {
+    "KPJ PAHANG SPECIALIST HOSPITAL SDN BHD (KUANTAN)": 80.0
+   }
+  }
+ },
+ "KELANTAN": {
+  "PHYSIOTHERAPY": {
+   "Home Therapy + Mileage": {
+    "HMC PROVIDERS SDN BHD (SHAH ALAM)": 110.0
+   }
+  }
+ },
+ "TERENGGANU": {
+  "PHYSIOTHERAPY": {
+   "Home Therapy + Mileage": {
+    "HMC PROVIDERS SDN BHD (SHAH ALAM)": 110.0
+   }
+  }
+ },
+ "SABAH": {
+  "SERVICES BY MODALITIES": {
+   "Basic Equipment - Ambulation": {
+    "K.K PHYSIOCARE SDN BHD (KK)": 100.0
+   }
+  }
+ },
+ "SARAWAK": {
+  "PHYSIOTHERAPY": {
+   "CHEST PHYSIOTHERAPY SUCTION MACHINE": {
+    "REHAB CONCEPT SDN BHD (KUCHING)": 70.0
+   }
+  }
+ },
+ "KUALA LUMPUR": {
+  "ASSESSMENT & REPORT": {
+   "General Ot Assessment & Report": {
+    "NURSINAR GLOBAL ENTERPRISE (TAMAN SETIAWANGSA)": 50.0
+   }
+  }
+ },
+ "SELANGOR": {
+  "SERVICES BY MODALITIES": {
+   "Basic Equipment -Therapeutic Ultrasound": {
+    "MY PHYSIO & REHAB CENTRE (SEPANG)": 50.0
+   }
+  }
+ },
+ "ZON SELATAN": {
+  "SERVICES BY MODALITIES": {
+   "Advance Equipment - Shock Wave Therapy": {
+    "KPJ SEREMBAN SPECIALIST HOSPITAL (SEREMBAN)": 85.0
+   }
+  }
+ },
+ "Zon UTARA": {
+  "PHYSIOTHERAPY": {
+   "Pain Management": {
+    "YAYASAN SULTAN IDRIS SHAH BAGI ORANG KURANG UPAYA PERAK (IPOH)": 50.0
+   }
+  }
+ },
+ "ZON TIMUR": {
+  "SERVICES BY MODALITIES": {
+   "Advance Equipment - Shock Wave Therapy": {
+    "KPJ PAHANG SPECIALIST HOSPITAL SDN BHD (KUANTAN)": 80.0
+   }
+  }
+ },
+ "ZON BORNEO": {
+  "SERVICES BY MODALITIES": {
+   "Basic Equipment - Paraffin Wax": {
+    "TAWAU PHYSIOTHERAPY CENTRE (TAWAU)": 30.0
+   }
+  }
+ },
+ "ZON LEMBAH KLANG NEW": {
+  "SERVICES BY MODALITIES": {
+   "Basic Equipment -Therapeutic Ultrasound": {
+    "MY PHYSIO & REHAB CENTRE (SEPANG)": 50.0
+   }
+  }
+ }
+}

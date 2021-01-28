@@ -1,0 +1,662 @@
+physiotherapytreatment
+manualtherapy
+painmanagement
+musculoskeletalrehabilitation
+sportinjuriesrehabilitation
+strokerehabilitation
+spinalcordinjuryrehabilitation
+traumaticbraininjuryrehabilitation
+amputeerehabilitation
+cardiorespiratoryrehabilitation
+hydrotherapy
+hometherapy+mileage
+grouptherapyandexercises
+burnmanagement
+patientandfamilyeducationincludingtalkworkshopandtraining
+womenandmenhealth
+otherneurologicalorrarediseasesrehabilitationsuchasparkinson/multiplesclerosis/musculardysthropy/systemiclupus/ankylosingspondylotis/gullainbarre1syndrome
+alter-g(antigraviti)physio
+tbion(tibionbionictechnology)rehab
+chestphysiotherapymanual
+chestphysiotherapysuctionmachine
+handfunctiontraining
+finemotortraining
+cognitivetraining
+occupationaltherapytreatment
+adltraining(basicandinstrumentaladl)
+therapeuticactivities
+splinting
+pressuregarment
+cognitiveandperceptualtraining
+ottx/therapeuticexercise
+hometherapy+mileage
+aidsandadaptations
+workrehabilitation(conditioning&hardening)
+worksimulationtraining/workhardening
+drivingtraining
+vehiclemodification
+functionalergonomictraining
+mobilitytraining(wheelchair/walkingaids/prostheticetc)
+patientandfamilyeducationincludingtalkworkshopandtraining
+transitionallivingcarefacility)
+sensoryeducation
+treatment
+treatment
+rehabspecialist-initialsession
+rehabspecialist-followupsession
+medicalofficer-initialsession
+medicalofficer-followupsession
+generalptassessment&report
+generalotassessment&report
+neuro/spinalcordinjuryassessment&report
+cognitiveassessment(cognab)/perceptualassessment&report
+homemodificationassessment&report
+worksiteassessment&report
+drivingassessment&report
+wheelchairassessment&report
+prosthetic/amputationassessment&report
+speechtherapyassessment&report
+psychologicalassessment&report
+sensoryperceptiontest
+clinicalobservationneuromotorperformance
+visualperceptiontest
+generalfce&report
+basicfce
+completefce(bteprimus)
+bypartfce(bteprimus)
+upperextremity&handfce&report
+trunk&lowerextremityfce&report
+upper,trunk,lowerextremityfce&report
+neurologicalfce&report
+cardiopulmonaryfce&report
+cognitive/perceptuanfunctionfce&report
+firstregistrationfees
+followupsessionfees
+inpatient-hostel&makan
+dryneedlingpackage
+therapeuticultrasound
+hydrocollatorpack
+tens
+cryocuff
+icepack
+paraffinwax
+dumbbell
+sandbag
+gymball
+pulley
+wallbar
+parallelbar
+tilttable
+plinthandbobathplinth
+exercisemat
+staticcycle
+mechanicaltraction
+stairs
+adlkits
+finemotorkits
+splint
+pressuregarment
+theraputty
+theraband
+handexerciserequipment
+swd
+continuouspassivemachine
+interferentialift
+ambulation
+hotpack
+traction
+treadmill
+electricalstimulation
+hydrocollatorpack
+infrared
+basic-desensitisationkit
+exerciseingym
+mobilizingexercise
+advance-multigymequipment
+walkinghoist
+biofeedbackequipment
+erigostand
+armeoarm
+locomat
+bteprimus
+bteevaltech
+viennatestsystem
+lowensteinoccupationaltherapycognitiveassessment(lotca)/chessingtonoccupationaltherapyneurologicalassessment(cotnab)
+chessingtonoccupationaltherapyneurologicalassessment(cotnab)
+drivingsimulator
+t/pal
+valpar
+laser–lowintensityorhighintensity
+shockwavetherapy
+shortwavetherapy
+magnetotherapy
+motomed
+hydropool
+cybernicrehab
+cryotherapy
+faradic
+pakej-neurorehab
+pakej-spine/backinjury
+pakej-neckinjury
+pakej-shoulderinjury
+pakej-handinjury
+pakej-kneeinjury
+pakej-fracture
+pakej-painmanagement
+pakej-sportrehab
+pakej-cardiacrehab
+pakej-generalexercise
+pakej-respiratoryexercise
+pakej-2electricalmodalities
+pakej-3electricalmodalities/more
+BIL
+PANEL / TREATMENT
+ Physiotherapy 
+Treatment
+Manual Therapy
+Pain Management
+Musculoskeletal Rehabilitation
+Sport Injuries 
+Rehabilitation
+Stroke rehabilitation
+Spinal Cord Injury Rehabilitation
+Traumatic Brain Injury Rehabilitation
+Amputee 
+Rehabilitation
+Cardiorespiratory Rehabilitation
+Hydrotherapy
+Home Therapy + Mileage
+Group Therapy And Exercises
+Burn Management
+Patient And Family Education Including Talk Workshop And Training
+Women And Men Health
+Other Neurological Or Rare Diseases Rehabilitation Such As Parkinson/Multiple Sclerosis/Muscular Dysthropy/Systemic Lupus/Ankylosing Spondylotis/Gullain Barre 1Syndrome
+Alter-G (Anti Graviti) Physio 
+Tbion (Tibion Bionic Technology) Rehab
+Chest Physiotherapy Manual
+Chest Physiotherapy Suction Machine
+
+Hand Function Training
+
+Fine Motor Training
+
+Cognitive Training
+
+Occupational Therapy Treatment
+Adl Training (Basic And Instrumental Adl)
+Therapeutic Activities
+Splinting
+Pressure Garment
+Cognitive And Perceptual Training
+Ot Tx/ Therapeutic
+ Exercise
+Aids And Adaptations
+Work Rehabilitation (Conditioning & Hardening)
+Work Simulation Training / Work Hardening
+
+Driving Training
+Vehicle Modification
+Functional Ergonomic Training
+Mobility Training (Wheelchair/ Walking Aids/ Prosthetic Etc)
+ Transitional Living Care Facility
+Sensory Education
+
+Speech Therapy
+Treatment
+Psychology
+Treatment
+Rehab Specialist 
+(Initial Session) 
+Rehab Specialist 
+(Follow Up  Session)
+
+Medical Officer
+(Initial Session)
+
+Medical Officer 
+(Follow Up Session)
+
+General Pt  
+Assessment & Report
+
+General Ot 
+ Assessment & Report
+
+Neuro/ Spinal Cord Injury Assessment & Report
+
+Cognitive Assessment (Cognab)/ Perceptual Assessment & Repot
+
+Home Modification Assessment & Report
+Worksite Assessment & Report
+Driving Assessment & Report
+
+Wheelchair Assessment & Report
+Prosthetic/ Amputation Assessment & Report
+
+Speech Therapy Assessment & Report
+
+Psychological Assessment & Report
+
+Sensory Perception Test
+
+Clinical Observation Neuromotor Performance
+
+Visual Perception Test
+
+General FCE & Report
+Basic FCE
+
+Complete FCE (BTE PRIMUS)
+
+By Part FCE (BTE PRIMUS)
+Upper extremity & hand FCE & Report
+Trunk & lower extremity FCE & Report
+Upper, Trunk, lower extremity FCE & Report
+Neurological FCE & Report
+Cardiopulmonary FCE & Report
+Cognitive/ Perceptuan Function FCE & Report
+First Registration Fees
+
+Follow Up Registration Fess
+
+Inpatient - Hostel & Makan
+
+Dry Needling Package
+
+Basic Equipment -Therapeutic Ultrasound
+Basic Equipment - Hydrocollator pack
+Basic Equipment -
+ Tens
+Basic Equipment -
+Cryocuff
+Basic Equipment - 
+Ice pack
+Basic Equipment -
+ Paraffin Wax
+Basic Equipment - 
+Dumb bell
+Basic Equipment - 
+Sandbag
+Basic Equipment - 
+Gym ball
+Basic Equipment - 
+Pulley
+Basic Equipment - 
+Wall bar
+Basic Equipment - 
+Parallel bar
+Basic Equipment - 
+Tilt Table
+Basic Equipment - 
+Plinth  and Bobath Plinth
+Basic Equipment - 
+Exercise Mat
+Basic Equipment - Static cycle
+Basic Equipment -Mechanical traction
+Basic Equipment - Stairs
+Basic Equipment - ADL kits
+Basic Equipment - Fine motor kits
+Basic Equipment - Splint
+Basic Equipment - Pressure garment
+Basic Equipment - Thera putty
+Basic Equipment - Thera band
+Basic Equipment - Hand exerciser equipment
+Basic Equipment - SWD
+Basic Equipment - Continuous Passive Machine
+Basic Equipment - Interferential IFT
+Basic Equipment - Ambulation
+Basic Equipment - 
+Hot Pack
+Basic Equipment - Traction
+Basic Equipment - Treadmill
+Basic Equipment - Electrical Stimulation
+Basic Equipment - Hydro Collator Pack
+Basic Equipment - Infrared
+Basic Equipment - Desensitisation Kit
+Basic Equipment - Exercise In Gym
+Basic Equipment - 
+Hydro Collator Pack 
+Basic Equipment - Mobilizing Exercise
+Advance Equipment - Multi gym equipment
+Advance Equipment - Walking hoist
+Advance Equipment - Biofeedback equipmentrd
+Advance Equipment - Erigo stand
+Advance Equipment - Armeo arm
+Advance Equipment - Locomat
+Advance Equipment - BTE Primus
+Advance Equipment - BTE Evaltech
+Advance Equipment - Vienna Test System
+Advance Equipment - Lowenstein Occupational Therapy Cognitive Assessment (LOTCA) / Chessington Occupational Therapy Neurological Assessment (COTNAB)
+Advance Equipment - Chessington Occupational Therapy Neurological Assessment (COTNAB)
+Advance Equipment - Driving Simulator
+Advance Equipment - T/PAL
+Advance Equipment - Valpar
+Advance Equipment - Laser � Low Intensity or High Intensity
+Advance Equipment - Shock Wave Therapy
+Advance Equipment - Short Wave Therapy
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 valpar
+laser–lowintensityorhighintensity
+shockwavetherapy
+shortwavetherapy
+magnetotherapy
+motomed
+hydropool
+cybernicrehab
+cryotherapy
+faradic
+pakej-neurorehab
+pakej-spine/backinjury
+pakej-neckinjury
+pakej-shoulderinjury
+pakej-handinjury
+pakej-kneeinjury
+pakej-fracture
+pakej-painmanagement
+pakej-sportrehab
+pakej-cardiacrehab
+pakej-generalexercise
+pakej-respiratoryexercise
+pakej-2electricalmodalities
+pakej-3electricalmodalities/more
+physiotherapytreatment
+manualtherapy
+painmanagement
+musculoskeletalrehabilitation
+sportinjuriesrehabilitation
+strokerehabilitation
+spinalcordinjuryrehabilitation
+traumaticbraininjuryrehabilitation
+amputeerehabilitation
+cardiorespiratoryrehabilitation
+hydrotherapy
+hometherapy+mileage
+grouptherapyandexercises
+burnmanagement
+patientandfamilyeducationincludingtalkworkshopandtraining
+womenandmenhealth
+otherneurologicalorrarediseasesrehabilitationsuchasparkinson/multiplesclerosis/musculardysthropy/systemiclupus/ankylosingspondylotis/gullainbarre1syndrome
+alter-g(antigraviti)physio
+tbion(tibionbionictechnology)rehab
+chestphysiotherapymanual
+chestphysiotherapysuctionmachine
+handfunctiontraining
+finemotortraining
+cognitivetraining
+occupationaltherapytreatment
+adltraining(basicandinstrumentaladl)
+therapeuticactivities
+splinting
+pressuregarment
+cognitiveandperceptualtraining
+ottx/therapeuticexercise
+hometherapy+mileage
+aidsandadaptations
+workrehabilitation(conditioning&hardening)
+worksimulationtraining/workhardening
+drivingtraining
+vehiclemodification
+functionalergonomictraining
+mobilitytraining(wheelchair/walkingaids/prostheticetc)
+patientandfamilyeducationincludingtalkworkshopandtraining
+transitionallivingcarefacility)
+sensoryeducation
+treatment
+treatment
+rehabspecialist-initialsession
+rehabspecialist-followupsession
+medicalofficer-initialsession
+medicalofficer-followupsession
+generalptassessment&report
+generalotassessment&report
+neuro/spinalcordinjuryassessment&report
+cognitiveassessment(cognab)/perceptualassessment&report
+homemodificationassessment&report
+worksiteassessment&report
+drivingassessment&report
+wheelchairassessment&report
+prosthetic/amputationassessment&report
+speechtherapyassessment&report
+psychologicalassessment&report
+sensoryperceptiontest
+clinicalobservationneuromotorperformance
+visualperceptiontest
+generalfce&report
+basicfce
+completefce(bteprimus)
+bypartfce(bteprimus)
+upperextremity&handfce&report
+trunk&lowerextremityfce&report
+upper,trunk,lowerextremityfce&report
+neurologicalfce&report
+cardiopulmonaryfce&report
+cognitive/perceptuanfunctionfce&report
+firstregistrationfees
+followupsessionfees
+inpatient-hostel&makan
+dryneedlingpackage
+therapeuticultrasound
+hydrocollatorpack
+tens
+cryocuff
+icepack
+paraffinwax
+dumbbell
+sandbag
+gymball
+pulley
+wallbar
+parallelbar
+tilttable
+plinthandbobathplinth
+exercisemat
+staticcycle
+mechanicaltraction
+stairs
+adlkits
+finemotorkits
+splint
+pressuregarment
+theraputty
+theraband
+handexerciserequipment
+swd
+continuouspassivemachine
+interferentialift
+ambulation
+hotpack
+traction
+treadmill
+electricalstimulation
+hydrocollatorpack
+infrared
+basic-desensitisationkit
+exerciseingym
+mobilizingexercise
+advance-multigymequipment
+walkinghoist
+biofeedbackequipment
+erigostand
+armeoarm
+locomat
+bteprimus
+bteevaltech
+viennatestsystem
+lowensteinoccupationaltherapycognitiveassessment(lotca)/chessingtonoccupationaltherapyneurologicalassessment(cotnab)
+chessingtonoccupationaltherapyneurologicalassessment(cotnab)
+drivingsimulator
+t/pal
+valpar
+laser–lowintensityorhighintensity
+shockwavetherapy
+shortwavetherapy
+magnetotherapy
+motomed
+hydropool
+cybernicrehab
+cryotherapy
+faradic
+pakej-neurorehab
+pakej-spine/backinjury
+pakej-neckinjury
+pakej-shoulderinjury
+pakej-handinjury
+pakej-kneeinjury
+pakej-fracture
+pakej-painmanagement
+pakej-sportrehab
+pakej-cardiacrehab
+pakej-generalexercise
+pakej-respiratoryexercise
+pakej-2electricalmodalities
+pakej-3electricalmodalities/more
+physiotherapytreatment
+manualtherapy
+painmanagement
+musculoskeletalrehabilitation
+sportinjuriesrehabilitation
+strokerehabilitation
+spinalcordinjuryrehabilitation
+traumaticbraininjuryrehabilitation
+amputeerehabilitation
+cardiorespiratoryrehabilitation
+hydrotherapy
+hometherapy+mileage
+grouptherapyandexercises
+burnmanagement
+patientandfamilyeducationincludingtalkworkshopandtraining
+womenandmenhealth
+otherneurologicalorrarediseasesrehabilitationsuchasparkinson/multiplesclerosis/musculardysthropy/systemiclupus/ankylosingspondylotis/gullainbarre1syndrome
+alter-g(antigraviti)physio
+tbion(tibionbionictechnology)rehab
+chestphysiotherapymanual
+chestphysiotherapysuctionmachine
+handfunctiontraining
+finemotortraining
+cognitivetraining
+occupationaltherapytreatment
+adltraining(basicandinstrumentaladl)
+therapeuticactivities
+splinting
+pressuregarment
+cognitiveandperceptualtraining
+ottx/therapeuticexercise
+hometherapy+mileage
+aidsandadaptations
+workrehabilitation(conditioning&hardening)
+worksimulationtraining/workhardening
+drivingtraining
+vehiclemodification
+functionalergonomictraining
+mobilitytraining(wheelchair/walkingaids/prostheticetc)
+patientandfamilyeducationincludingtalkworkshopandtraining
+transitionallivingcarefacility)
+sensoryeducation
+treatment
+treatment
+rehabspecialist-initialsession
+rehabspecialist-followupsession
+medicalofficer-initialsession
+medicalofficer-followupsession
+generalptassessment&report
+generalotassessment&report
+neuro/spinalcordinjuryassessment&report
+cognitiveassessment(cognab)/perceptualassessment&report
+homemodificationassessment&report
+worksiteassessment&report
+drivingassessment&report
+wheelchairassessment&report
+prosthetic/amputationassessment&report
+speechtherapyassessment&report
+psychologicalassessment&report
+sensoryperceptiontest
+clinicalobservationneuromotorperformance
+visualperceptiontest
+generalfce&report
+basicfce
+completefce(bteprimus)
+bypartfce(bteprimus)
+upperextremity&handfce&report
+trunk&lowerextremityfce&report
+upper,trunk,lowerextremityfce&report
+neurologicalfce&report
+cardiopulmonaryfce&report
+cognitive/perceptuanfunctionfce&report
+firstregistrationfees
+followupsessionfees
+inpatient-hostel&makan
+dryneedlingpackage
+therapeuticultrasound
+hydrocollatorpack
+tens
+cryocuff
+icepack
+paraffinwax
+dumbbell
+sandbag
+gymball
+pulley
+wallbar
+parallelbar
+tilttable
+plinthandbobathplinth
+exercisemat
+staticcycle
+mechanicaltraction
+stairs
+adlkits
+finemotorkits
+splint
+pressuregarment
+theraputty
+theraband
+handexerciserequipment
+swd
+continuouspassivemachine
+interferentialift
+ambulation
+hotpack
+traction
+treadmill
+electricalstimulation
+hydrocollatorpack
+infrared
+basic-desensitisationkit
+exerciseingym
+mobilizingexercise
+advance-multigymequipment
+walkinghoist
+biofeedbackequipment
+erigostand
+armeoarm
+locomat
+bteprimus
+bteevaltech
+viennatestsystem
+lowensteinoccupationaltherapycognitiveassessment(lotca)/chessingtonoccupationaltherapyneurologicalassessment(cotnab)
+chessingtonoccupationaltherapyneurologicalassessment(cotnab)
+drivingsimulator
+t/pal
+valpar
+laser–lowintensityorhighintensity
+shockwavetherapy
+shortwavetherapy
+magnetotherapy
+motomed
+hydropool
+cybernicrehab
+cryotherapy
+faradic
+pakej-neurorehab
+pakej-spine/backinjury
+pakej-neckinjury
+pakej-shoulderinjury
+pakej-handinjury
+pakej-kneeinjury
+pakej-fracture
+pakej-painmanagement
+pakej-sportrehab
+pakej-cardiacrehab
+pakej-generalexercise
+pakej-respiratoryexercise
+pakej-2electricalmodalities
+pakej-3electricalmodalities/more
